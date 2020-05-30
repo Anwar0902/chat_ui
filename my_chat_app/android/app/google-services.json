@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "869475785505",
+    "firebase_url": "https://chatui-a4444.firebaseio.com",
+    "project_id": "chatui-a4444",
+    "storage_bucket": "chatui-a4444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869475785505:android:bf32b2cff4370ec8ab3c60",
+        "android_client_info": {
+          "package_name": "com.anwar.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869475785505-0j3k4c07dq4l972dcf8q02nm7fav7ntq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anwar.mychatapp",
+            "certificate_hash": "9a8533eea38f950946b2f128ca7c2052e14b282d"
+          }
+        },
+        {
+          "client_id": "869475785505-vt1rlf0re1k91pge18d3i0000qqhhv7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BLBpIqjT64nmF1o7qHiEQ21BoD5XMMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869475785505-vt1rlf0re1k91pge18d3i0000qqhhv7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
